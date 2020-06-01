@@ -37,7 +37,7 @@ At the last steep of the Wizard, keep checked the *"Run MSYS2 Now"* check-box. T
 
 In this shell, first update MSYS2 itself with the welp of `pacman`:
 ```
-> pacman -Syuu
+> pacman -Syu
 ```
 
 Then restart the MSYS shell and redo the above command until `pacman` tell you than there is nothing more to update.
